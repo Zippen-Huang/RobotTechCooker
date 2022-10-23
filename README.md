@@ -1,6 +1,6 @@
 # RobotTechCooker  
 welcome to robot technology cooker~  
-欢迎关注微信公众号**混沌无形**  
+欢迎关注微信公众号：**混沌无形**  
 ## 综合技术电子书仓库  
 [仓库地址](https://github.com/Zippen-Huang/RobotTechCooker/tree/RobotTechBook)：https://github.com/Zippen-Huang/RobotTechCooker/tree/RobotTechBook    
 
