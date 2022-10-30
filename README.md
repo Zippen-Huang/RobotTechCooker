@@ -48,7 +48,7 @@
 
 寒武纪 和行歌内推系统是相通的；扫描内推二维码，点击右上角筛选，所属部门选择行歌，即可筛选出行歌的岗位
 
-<img src="D:/Users/DELL/Desktop/微信图片_20221030094441.jpg" alt="img" style="zoom:33%;" />
+![image-20221030112442792](C:\Users\DELL\AppData\Roaming\Typora\typora-user-images\image-20221030112442792.png)
 
 ### 内推码负责人联系方式
 
