@@ -14,7 +14,17 @@
 
 ### 具体内推工作岗位
 
+寒武纪 和行歌内推系统是相通的；扫描内推二维码，点击右上角筛选，所属部门选择行歌，即可筛选出行歌的岗位
+
 <img src="https://docimg4.docs.qq.com/image/PnoDx3sjKQaIipQtFr_lhQ.jpeg?w=750&h=1334" alt="img" style="zoom: 33%;" />
+
+### 内推福利
+
+通过我内推的童鞋可享受
+
+- 查进度
+- 公司相关情况咨询（本人入职1年），私信即可，晚上会在线
+- 嵌入式软开的童鞋，有需要的可以找我领取嵌入式面试宝典
 
 ### 内推码负责人联系方式
 
@@ -36,7 +46,9 @@
 
 ### 具体内推工作岗位
 
-<img src="C:\Users\DELL\AppData\Roaming\Typora\typora-user-images\image-20221030092238467.png" alt="image-20221030092238467" style="zoom: 33%;" />
+寒武纪 和行歌内推系统是相通的；扫描内推二维码，点击右上角筛选，所属部门选择行歌，即可筛选出行歌的岗位
+
+<img src="D:\Users\DELL\Desktop\微信图片_20221030094441.jpg" style="zoom:33%;" />
 
 ### 内推码负责人联系方式
 
