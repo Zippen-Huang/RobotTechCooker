@@ -14,7 +14,7 @@
 
 ​      寒武纪 和行歌内推系统是相通的；扫描内推二维码，点击右上角筛选，所属部门选择行歌，即可筛选出行歌的岗位
 
-![image-20221030153858625](C:\Users\DELL\AppData\Roaming\Typora\typora-user-images\image-20221030153858625.png)
+![](assets/1.png)
 
 - #### 内推码负责人联系方式
 
@@ -34,7 +34,7 @@
 
   寒武纪 和行歌内推系统是相通的；扫描内推二维码，点击右上角筛选，所属部门选择行歌，即可筛选出行歌的岗位
 
-  <img src="C:\Users\DELL\AppData\Roaming\Typora\typora-user-images\image-20221030154552360.png" alt="image-20221030154552360" style="zoom: 50%;" />
+  ![](assets/2.png)
 
 - ### 内推码负责人联系方式
 
