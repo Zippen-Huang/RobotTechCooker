@@ -21,7 +21,7 @@
 
 - **内推/招聘信息**
 
-  <img src="jobImg/CambriconJobs.png" style="zoom:50%;" />
+  <img src="jobImg/CambriconJobs_school.png" style="zoom:50%;" />
 
   
 
@@ -47,11 +47,11 @@
 
 ## 社招
 
-### <寒武纪&行歌> 23届秋招内推（2022.10.31截止）
+### <寒武纪&行歌> 社招内推
 
 - **内推/招聘信息**
 
-  <img src="jobImg/CambriconJobs.png" style="zoom:50%;" />
+  <img src="jobImg/CambriconJobs_social.png" style="zoom:50%;" />
 
   
 
