@@ -35,7 +35,7 @@
 
 - **内推/招聘信息**
 
-  <img src="assets/Goodix_TechnologyJobs_school.jpg" style="zoom: 25%;" />
+  <img src="assets/Goodix_TechnologyJobs_school.jpg" style="zoom:33%;" />
 
 - **负责人联系方式**：179338643@qq.com
 
@@ -79,10 +79,10 @@
 
 - **内推/招聘信息**
 
-  <img src="assets/Goodix _TechnologyJobs_social.jpg" style="zoom: 25%;" />
+  <img src="assets/Goodix _TechnologyJobs_social.jpg" style="zoom:33%;" />
 
   
 
 - **负责人联系方式**：179338643@qq.com
 
-- **备注**：寒武纪和行歌内推系统相通；扫描内推二维码，点击右上角筛选，所属部门选择寒武纪或行歌即可。
+- **备注**：
