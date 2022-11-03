@@ -35,7 +35,7 @@
 
 - **内推/招聘信息**
 
-  <img src="assets/Goodix_TechnologyJobs_school.jpg" style="zoom:33%;" />
+  ![](assets/Goodix_TechnologyJobs_school.png)
 
 - **负责人联系方式**：179338643@qq.com
 
@@ -79,7 +79,7 @@
 
 - **内推/招聘信息**
 
-  <img src="assets/Goodix _TechnologyJobs_social.jpg" style="zoom:33%;" />
+  ![](assets/Goodix _TechnologyJobs_social.png)
 
   
 
