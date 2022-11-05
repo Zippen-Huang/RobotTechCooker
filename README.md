@@ -21,7 +21,7 @@
 
 - **内推/招聘信息**
 
-  <img src="jobImg/CambriconJobs_school.png" style="zoom:50%;" />
+  <img src="assets/CambriconJobs_school-1667663174491-1.png" style="zoom:50%;" />
 
   
 
@@ -35,7 +35,7 @@
 
 - **内推/招聘信息**
 
-  ![](assets/Goodix_TechnologyJobs_school.png)
+  ![](assets/Goodix_TechnologyJobs_school-1667663174491-2.png)
 
 - **负责人联系方式**：179338643@qq.com
 
@@ -53,21 +53,33 @@
 
 - **负责人联系方式**：1479846464@qq.com
 
-- **备注**：点击链接后选择对应岗位投递时填写上方内推码，优先查看简历
+- **备注**：点击链接后选择对应岗位投递时填写上方内推码，优先查看简历。
 
 - 
 
-### <公司名称> 招聘内推基础信息（备注信息，若无可删除）
+### <汇川技术> 招聘内推基础信息
 
 - **内推/招聘信息**
 
-  xxxxx
+  ![](assets/huichuan_Technology_Jobs.jpg)
 
-- **负责人联系方式**：邮箱等
+- **负责人联系方式**：1097729078@qq.com
 
-- **备注**：（相关注意事项）
+- **备注**：扫描二维码投递岗位后，请将岗位及简历同步发送至以上邮箱。
+
+### <腾讯> 招聘内推基础信息
+
+- **内推/招聘信息**
+
+  ![](assets/Tencent_Jobs_school.png)
+
+- **负责人联系方式**：1129860063@qq.com
 
   
+
+### <公司名称> 招聘内推基础信息（备注信息，若无可删除）
+
+
 
 ------
 
@@ -79,7 +91,7 @@
 
 - **内推/招聘信息**
 
-  <img src="jobImg/CambriconJobs_social.png" style="zoom:50%;" />
+  <img src="assets/CambriconJobs_social-1667663174491-3.png" style="zoom:50%;" />
 
   
 
@@ -87,13 +99,11 @@
 
 - **备注**：寒武纪和行歌内推系统相通；扫描内推二维码，点击右上角筛选，所属部门选择寒武纪或行歌即可。
 
-
-
 ### <汇顶科技> 社招内推
 
 - **内推/招聘信息**
 
-  ![](assets/Goodix _TechnologyJobs_social.png)
+  ![](assets/Goodix _TechnologyJobs_social-1667663174491-4.png)
 
   
 
@@ -111,4 +121,36 @@
 
 - **负责人联系方式**：1479846464@qq.com
 
-- **备注**：点击链接后选择对应岗位投递时填写上方内推码，优先查看简历
+- **备注**：点击链接后选择对应岗位投递时填写上方内推码，优先查看简历。
+
+### <内推-OPPO> 招聘内推基础信息
+
+- **内推/招聘信息**
+
+  ![](assets/OPPO_Jobssocal-1667663174491-5.jpg)
+
+- **备注**：微信扫码选择对应岗位投递，优先查看简历。
+
+### <哲库(ZEKU)> 招聘内推基础信息
+
+- **内推/招聘信息**
+
+  [社会招聘-哲库]([哲库科技（ZEKU） - 社会招聘 (mokahr.com)](https://app.mokahr.com/apply/zeku/38096#/))
+
+  内推码：NTAMUbc
+
+- **负责人联系方式**：lianghanwer@foxmail.com
+
+- **备注**：微信扫码选择对应岗位投递时填写上方内推码，优先查看简历。
+
+- 
+
+### <汇川技术> 招聘内推基础信息
+
+- **内推/招聘信息**
+
+  ![](assets/huichuan_Technology_Jobs.jpg)
+
+- **负责人联系方式**：1097729078@qq.com
+
+- **备注**：扫描二维码投递岗位后，请将岗位及简历同步发送至以上邮箱。
