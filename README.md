@@ -21,7 +21,7 @@
 
 - **内推/招聘信息**
 
-  <img src="assets/CambriconJobs_school-1667663174491-1.png" style="zoom:50%;" />
+  ![](assets/CambriconJobs_school.png)
 
   
 
@@ -35,7 +35,7 @@
 
 - **内推/招聘信息**
 
-  ![](assets/Goodix_TechnologyJobs_school-1667663174491-2.png)
+  ![](assets/Goodix_TechnologyJobs_school.png)
 
 - **负责人联系方式**：179338643@qq.com
 
@@ -91,7 +91,7 @@
 
 - **内推/招聘信息**
 
-  <img src="assets/CambriconJobs_social-1667663174491-3.png" style="zoom:50%;" />
+  ![](assets/CambriconJobs_socia.png)
 
   
 
@@ -103,9 +103,7 @@
 
 - **内推/招聘信息**
 
-  ![](assets/Goodix _TechnologyJobs_social-1667663174491-4.png)
-
-  
+  ![](assets/Goodix _TechnologyJobs_social.png)
 
 - **负责人联系方式**：179338643@qq.com
 
@@ -127,7 +125,7 @@
 
 - **内推/招聘信息**
 
-  ![](assets/OPPO_Jobssocal-1667663174491-5.jpg)
+  ![](assets/OPPO_Jobs_school.jpg)
 
 - **备注**：微信扫码选择对应岗位投递，优先查看简历。
 
