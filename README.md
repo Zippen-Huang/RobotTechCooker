@@ -21,7 +21,7 @@
 
 - **内推/招聘信息**
 
-  <img src="D:/GIT/zipenghuang/RobotTechCooker/jobImg/CambriconJobs_school.png" style="zoom: 50%;" />
+  <img src="jobImg/CambriconJobs_school.png"  />
 
   
 
@@ -35,7 +35,7 @@
 
 - **内推/招聘信息**
 
-  ![](D:/GIT/zipenghuang/RobotTechCooker/jobImg/Goodix_TechnologyJobs_school.png)
+  ![](jobImg/Goodix_TechnologyJobs_school.png)
 
 - **负责人联系方式**：179338643@qq.com
 
@@ -61,7 +61,7 @@
 
 - **内推/招聘信息**
 
-  ![](D:/GIT/zipenghuang/RobotTechCooker/jobImg/huichuan_Technology_Jobs.jpg)
+  ![](jobImg/huichuan_Technology_Jobs.jpg)
 
 - **负责人联系方式**：1097729078@qq.com
 
@@ -71,7 +71,7 @@
 
 - **内推/招聘信息**
 
-  ![](D:/GIT/zipenghuang/RobotTechCooker/jobImg/Tencent_Jobs_school.png)
+  ![](jobImg/Tencent_Jobs_school.png)
 
 - **负责人联系方式**：1129860063@qq.com
 
@@ -91,7 +91,7 @@
 
 - **内推/招聘信息**
 
-  ![](D:/GIT/zipenghuang/RobotTechCooker/jobImg/CambriconJobs_socia.png)
+  ![](jobImg/CambriconJobs_socia.png)
 
   
 
@@ -103,7 +103,7 @@
 
 - **内推/招聘信息**
 
-  ![](D:/GIT/zipenghuang/RobotTechCooker/jobImg/Goodix_TechnologyJobs_social.png)
+  ![](jobImg/Goodix_TechnologyJobs_social.png)
 
   
 
@@ -127,7 +127,7 @@
 
 - **内推/招聘信息**
 
-  ![](D:/GIT/zipenghuang/RobotTechCooker/jobImg/OPPO_Jobs_school.jpg)
+  ![](jobImg/OPPO_Jobs_school.jpg)
 
 - **备注**：微信扫码选择对应岗位投递，优先查看简历。
 
@@ -149,7 +149,7 @@
 
 - **内推/招聘信息**
 
-  ![](D:/GIT/zipenghuang/RobotTechCooker/jobImg/huichuan_Technology_Jobs.jpg)
+  ![](jobImg/huichuan_Technology_Jobs.jpg)
 
 - **负责人联系方式**：1097729078@qq.com
 
