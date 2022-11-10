@@ -83,35 +83,34 @@
 ## ComputerEngineeringBasis
 ### ProgrammingTutorial
 #### CLanguage
-- C和指针(第二版).pdf
-- C陷阱和缺陷.pdf
+- C陷阱与缺陷_AndrewKoenig.pdf
+- C和指针(第2版)_Kenneth.pdf
 #### CPPLanguage
-- C++  Primer中文版（第五版）.pdf
+- C++ Primer(第5版)_Stanley.pdf
 #### CodingRule
-- 华为C语言规范【高清电子版】.pdf
+- 华为C语言规范.pdf
 - Doxygen代码注释规范.docx
 
 ### OperatingSystem
-- 鸟哥的Linux私房菜.pdf
+- 鸟哥的Linux私房菜(第4版).pdf
 
 ## EmbeddedSoftware
 ### EmbeddedDriverDevelopment
-- Cortex-M3权威指南Cn.pdf
+- Cortex-M3权威指南_Joseph.pdf
 ### EmbeddedOperatingSystem
-- FreeRTOS.pdf
+- FreeRTOS内核实现与应用开发实战指南_刘火良.pdf
 ### EmbeddedApplicationDevelopment
 
 ## ApplicationSoftware
 ### ROSBasicTutorial
 #### ROS1RefBooks
-- Learning ROS for Robotics Programming - Second Edition.pdf
-- Learning ROS for Robotics Programming.pdf
-- Mastering ROS for Robotics Programming [eBook].pdf
-- Packt.Effective.Robotics.Programming.with.ROS.3rd.Edition.2016.12.pdf
-- ros by example vol 1 indigo.pdf
-- ros by example vol 2 indigo.pdf
-- ROS Robotics Projects.pdf
-- ROS_ROBOTICS_PROJECTS.pdf
+- [Fuerte]Learning ROS for Robotics Programming(1st Edition).pdf
+- [Fuerte]Learning ROS for Robotics Programming(2nd Edition).pdf
+- [Indigo]Mastering ROS for Robotics Programming.pdf
+- [Indigo]ros by example vol 1.pdf
+- [Indigo]ros by example vol 2.pdf
+- [Kinetic]Effective Robotics Programming with ROS.pdf
+- [Kinetic]ROS Robotics Projects.pdf
 
 #### ROS2RefBooks
 
@@ -127,51 +126,51 @@
 - ROS组件tf简介.pptx
 
 ## ProgrammingBooks
-- 《现代C++白皮书》电子版.pdf
-- C程序设计语言(英文第2版)Prentice+Hall.-.The+C+Programming+Language(2nd+Edition).pdf
-- 程序是怎样跑起来的.pdf
-- 程序员的自我修养—链接、装载与库.pdf
-- 大话设计模式.pdf
-- 敏捷软件开发：原则、模式与实践.pdf
-- 嵌入式C语言自我修养.pdf
+- 现代C++白皮书_Bjarne.pdf
+- The C Programming Language(2nd Edition)_Prentice.pdf
+- 程序是怎样跑起来的_失则久雄.pdf
+- 程序员的自我修养—链接、装载与库_俞甲子.pdf
+- 大话设计模式_程杰.pdf
+- 敏捷软件开发：原则、模式与实践_robert.pdf
+- 嵌入式C语言自我修养_王利涛.pdf
 
 # AlgorithmCategory
 
 ## MathBasics
-- 离散数学及其应用第7版KENNETH H.ROSEN著.pdf
-- 四元数与三维旋转.pdf
-- 凸优化理论.pdf
-- 图论.pdf
-- 线性代数应该这样学.pdf
-- 最优化理论与算法_陈宝林.pdf
+- 离散数学及其应用(第7版)_KENNETH.pdf
+- 四元数与三维旋转_Krasjet.pdf
+- 凸优化_stephen.pdf
+- 图论及其应用_孙惠泉.pdf
+- 线性代数应该这样学(第3版)_Sheldon.pdf
+- 最优化理论与算法(第2版)_陈宝林.pdf
 
 ## EnvironmentalPerception
 
-- 基于视觉的机器人导航.pdf
-- 视觉slam14讲.pdf
+- 基于视觉的自主机器人导航_Amitava.pdf
+- 视觉slam十四讲_高翔.pdf
 - 视觉SLAM知识导图.jpg
-- 为何Transformer 在计算机视觉中如此受欢迎？.pdf
+- [博文]为何Transformer 在计算机视觉中如此受欢迎？_胡瀚.pdf
 ## AutonomousPositioning
-- StateEstimationforRobotics-CN.pdf
-- 概率机器人.pdf
+- 机器人学的状态估计_Timothy.pdf
+- 概率机器人_塞巴斯蒂安.pdf
 ## TrajectoryPlanning
-- A mathematical introduction to robotic manipulation.pdf
-- Biagiotti 和 Melchiorri - 2008 - Trajectory planning for automatic machines and rob.pdf
-- Principles of Robot Motion Theory, Algorithms, and Implementations.pdf
-- 规划算法.pdf
+- A mathematical introduction to robotic manipulation_Richard.pdf
+- Trajectory planning for automatic machines and robots_Biagiotti.pdf
+- Principles of Robot Motion Theory, Algorithms, and Implementations_Howie.pdf
+- 规划算法_steven.pdf
 
 ## MotionControl
-- Featherstone R. Rigid body dynamics algorithms.pdf
-- 控制论（N.维纳）.pdf
+- Rigid body dynamics algorithms_Featherstone.pdf
+- 控制论_维纳.pdf
 - 鲁棒与最优控制-周克敏.pdf
 
 ## NeuralNetwork
 ### Overview
-- 20220825-理解图神经网络：从CNN到GNN.pdf
+- [博文]理解图神经网络：从CNN到GNN_Gwave_20220825.pdf
 
 ## ComprehensiveBooks
-- Siciliano - 2009 - Robotics modelling, planning and control.pdf
-- 自主移动机器人导论.pdf
+- Robotics modelling, planning and control_Siciliano.pdf
+- 自主移动机器人导论_Roland.pdf
 
 # HardWareCategory
 
