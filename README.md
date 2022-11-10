@@ -19,7 +19,7 @@
       * [经典机构设计参考-from越南设计师Thang](#经典机构设计参考-from越南设计师Thang)
   * [Analysis](#Analysis)
     * [AnalysisSoftwareTutorial](#AnalysisSoftwareTutorial)
-      * [Adams](#Adams)
+      * [AdamsBook](#AdamsBool)
 * [SoftwareCategory](#SoftwareCategory)
   * [ComputerEngineeringBasis](#ComputerEngineeringBasis)
     * [ProgrammingTutorial](#ProgrammingTutorial)
@@ -75,7 +75,7 @@
 - 对应的机构运动视频网页链接.txt
 ## Analysis
 ### AnalysisSoftwareTutorial
-#### Adams
+#### AdamsBook
 - ADAMS入门详解与实例-李增刚.pdf
 
 
@@ -178,5 +178,4 @@
 
 
 ## 免责声明
-
 
