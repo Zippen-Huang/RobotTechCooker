@@ -11,11 +11,17 @@ collect robot technology books
 
 ### 01设计
 
+- [grabcad](https://grabcad.com/library)  [网站-三维模型下载]
+- 
+
 ### 02分析
 
 ## 2.算法
 
 ### 01数学基础
+
+- [wolfram mathworld](http://mathworld.wolfram.com/)  [网站-非常丰富的数学资源]
+- 
 
 ### 02环境感知
 
@@ -59,19 +65,49 @@ collect robot technology books
 - [Intro to Artificial Intelligence](https://medium.com/intro-to-artificial-intelligence)  [博客-人工智能、机器学习、自动驾驶等技术类综合型资料]
 - [TUM Phoenix Robotics](http://www.phoenix.tum.de/index.php?id=5)  [网站-无人机与智能移动机器人]
 - [Team Taran Racing from Carnegie Mellon University](http://www.tartanracing.org/)  [网站-CMU无人车]
+- Stanford Racing from Stanford University  [网站-斯坦福无人车]
+- [Google self-driving car project](https://waymo.com/)  [网站-谷歌无人车 Waymo]
+- [NVIDIA-DGX-1](http://www.nvidia.com/object/drive-px.html)  [网站-英伟达无人驾驶平台]
+- [Auro robotics](http://www.auro.ai/)  [网站-Auro L4自动驾驶]
+- [The Autoware Foundation](https://github.com/autowarefoundation)  [Github-用于自动驾驶车辆的开源软件 ]
+- [TTU Advanced Robotics](http://ttuadvancedrobotics.wikidot.com/class-wikis)  [网站-介绍机器人设计过程中的详细资料（包含理论推导和工程实践)]
+- [Bob Fisher](http://homepages.inf.ed.ac.uk/rbf/CVonline/LOCAL_COPIES/BMVA96Tut/BMVA96Tut.html) [网站-概率论、优化相关数学资料汇集网站]
 
 ## 6.其他
 
 ### 01常用软件下载
 
+- [sourceforge](https://sourceforge.net/)  [网站-软件平台]
+
 ### 02书籍论文文献搜索
 
-### 03开源项目
+- [Library Genesis](http://gen.lib.rus.ec/)  [网站-各类电子书籍下载网站]
+- [arxiv](https://arxiv.org/)  [网站-部分论文及其各类电子书下载网址]
+- [sci-hub](http://www.sci-hub.se/)  [网站-文献小镇（几乎能下载到所有英文文献)]
+- [pqdtopen](https://pqdtopen.proquest.com/search.html)和[dart-europe](http://www.dart-europe.eu/About/info.php)  [网站-国外硕博论文下载]
+
+### 03机器人相关话题
+
+- [IEEE Spectrum 杂志的 IEEE Spectrum Robotics ](http://spectrum.ieee.org/robotics)  [网站-机器人部分 ]
+- [MIT Technology Review Robotics ](https://www.technologyreview.com/c/robotics/)  [网站-《麻省理工科技评论》杂志的机器人部分 ]
+- [reddit 机器人 subreddit ](https://www.reddit.com/r/robotics/)  [网站-机器人技术讨论学习社区]
+- [卡内基梅隆机器人学院 ](http://education.rec.ri.cmu.edu/)  [网站-机器人技术学习]
+- [我如何学习机器人技术？ ](https://www.quora.com/How-do-I-learn-robotics)  [网站-零开始学习机器人技术经验分享]
+- [StackExachange 机器人社区 ](https://robotics.stackexchange.com)  [网站-机器人技术交流社区]
+- [47 个可编程机器人套件 ](http://www.intorobotics.com/47-programmable-robotic-kits/)  
+
+### 04开源项目
+
+- [让我们制造机器人 ](http://letsmakerobots.com/)  [网站-机器人项目交流社区]
+- [免费的 NXT Lego MindStorms NXT-G 代码教程 ](http://www.drgraeme.net/DrGraeme-free-NXT-G-tutorials/ChV4.htm)  [网站-机器人项目制作教程]
+- [Linorobot ](https://linorobot.org/)  [网站-一套 DIY ROS 兼容机器人]
 
 ## 6.其他
 
--  [donkeycar project](https://robocaresslingen.github.io/BookDownDocu/index.html#how-to-join-us) / [github](https://github.com/RoboCarEsslingen)  [project documentation/Github-donkeycar制作]
+-  [donkeycar project](https://robocaresslingen.github.io/BookDownDocu/index.html#how-to-join-us) / [github](https://github.com/RoboCarEsslingen)  [技术文档/Github-donkeycar制作]
 - [Tombone](http://www.computervisionblog.com/2016/01/why-slam-matters-future-of-real-time.html)  [博客-Deep Learning, Computer Vision, and the algorithms that are shaping the future of Artificial Intelligence.]
 - [Robert Eisele](https://www.xarg.org/)  [博客-Computer Science & Machine Learning]
 - [Adrian Boeing: Blog](http://adrianboeing.blogspot.com/)  [博客-机器人等相关话题的博客，涉及AI、计算机、教育、游戏、图像、操作系统、物理、编程等]
+- [Awesome Robotics](https://github.com/kiloreux/awesome-robotics)  [Github-机器人范畴很全的资料链接-课程、书籍、软件、期刊、公司]
+- 
 
