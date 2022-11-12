@@ -12,7 +12,6 @@ collect robot technology books
 ### 01设计
 
 - [grabcad](https://grabcad.com/library)  [网站-三维模型下载]
-- 
 
 ### 02分析
 
@@ -21,7 +20,6 @@ collect robot technology books
 ### 01数学基础
 
 - [wolfram mathworld](http://mathworld.wolfram.com/)  [网站-非常丰富的数学资源]
-- 
 
 ### 02环境感知
 
@@ -65,7 +63,7 @@ collect robot technology books
 - [Intro to Artificial Intelligence](https://medium.com/intro-to-artificial-intelligence)  [博客-人工智能、机器学习、自动驾驶等技术类综合型资料]
 - [TUM Phoenix Robotics](http://www.phoenix.tum.de/index.php?id=5)  [网站-无人机与智能移动机器人]
 - [Team Taran Racing from Carnegie Mellon University](http://www.tartanracing.org/)  [网站-CMU无人车]
-- Stanford Racing from Stanford University  [网站-斯坦福无人车]
+-  [Stanford Racing from Stanford University](http://cs.stanford.edu/group/roadrunner/)  [网站-斯坦福无人车]
 - [Google self-driving car project](https://waymo.com/)  [网站-谷歌无人车 Waymo]
 - [NVIDIA-DGX-1](http://www.nvidia.com/object/drive-px.html)  [网站-英伟达无人驾驶平台]
 - [Auro robotics](http://www.auro.ai/)  [网站-Auro L4自动驾驶]
