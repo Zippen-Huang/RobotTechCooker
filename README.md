@@ -48,8 +48,7 @@ collect robot technology books
 
 - [古月居](http://www.guyuehome.com/)  [网站-ROS开发实践大神的博客]
 - [R. PATRICK GOEBEL](https://robohub.org/author/patrick-goebel/)  [网站-ROS开发实践大神的博客]
-
-### 
+- [Nav2中文网 | Nav2 中文网 (fishros.com)](http://nav2.fishros.com/)  [网站-机器人导航相关知识]
 
 ## 4.硬件
 
@@ -92,7 +91,11 @@ collect robot technology books
 - [卡内基梅隆机器人学院 ](http://education.rec.ri.cmu.edu/)  [网站-机器人技术学习]
 - [我如何学习机器人技术？ ](https://www.quora.com/How-do-I-learn-robotics)  [网站-零开始学习机器人技术经验分享]
 - [StackExachange 机器人社区 ](https://robotics.stackexchange.com)  [网站-机器人技术交流社区]
-- [47 个可编程机器人套件 ](http://www.intorobotics.com/47-programmable-robotic-kits/)  
+- [donkeycar project](https://robocaresslingen.github.io/BookDownDocu/index.html#how-to-join-us) / [github](https://github.com/RoboCarEsslingen)  [技术文档/Github-donkeycar制作]
+- [Tombone](http://www.computervisionblog.com/2016/01/why-slam-matters-future-of-real-time.html)  [博客-Deep Learning, Computer Vision, and the algorithms that are shaping the future of Artificial Intelligence.]
+- [Robert Eisele](https://www.xarg.org/)  [博客-Computer Science & Machine Learning]
+- [Adrian Boeing: Blog](http://adrianboeing.blogspot.com/)  [博客-机器人等相关话题的博客，涉及AI、计算机、教育、游戏、图像、操作系统、物理、编程等]
+- [Awesome Robotics](https://github.com/kiloreux/awesome-robotics)  [Github-机器人范畴很全的资料链接-课程、书籍、软件、期刊、公司]
 
 ### 04开源项目
 
@@ -100,12 +103,5 @@ collect robot technology books
 - [免费的 NXT Lego MindStorms NXT-G 代码教程 ](http://www.drgraeme.net/DrGraeme-free-NXT-G-tutorials/ChV4.htm)  [网站-机器人项目制作教程]
 - [Linorobot ](https://linorobot.org/)  [网站-一套 DIY ROS 兼容机器人]
 
-## 6.其他
 
--  [donkeycar project](https://robocaresslingen.github.io/BookDownDocu/index.html#how-to-join-us) / [github](https://github.com/RoboCarEsslingen)  [技术文档/Github-donkeycar制作]
-- [Tombone](http://www.computervisionblog.com/2016/01/why-slam-matters-future-of-real-time.html)  [博客-Deep Learning, Computer Vision, and the algorithms that are shaping the future of Artificial Intelligence.]
-- [Robert Eisele](https://www.xarg.org/)  [博客-Computer Science & Machine Learning]
-- [Adrian Boeing: Blog](http://adrianboeing.blogspot.com/)  [博客-机器人等相关话题的博客，涉及AI、计算机、教育、游戏、图像、操作系统、物理、编程等]
-- [Awesome Robotics](https://github.com/kiloreux/awesome-robotics)  [Github-机器人范畴很全的资料链接-课程、书籍、软件、期刊、公司]
-- 
 
