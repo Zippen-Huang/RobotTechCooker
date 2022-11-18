@@ -1,5 +1,5 @@
 # RobotTechCooker
-collect robot technology websites
+收集优质的机器人相关主题网络资料
 
 更多资讯请关注微信公众号《混沌无形》
 
