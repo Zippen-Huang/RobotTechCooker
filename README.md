@@ -1,6 +1,6 @@
 # RobotTechCooker  
 welcome to Robot Technology Cooker~  
-       更多咨询请关注微信公众号：**混沌无形**  
+       更多咨询请关注微信公众号：**混沌无形**   或联系馄饨小助理：haisenzeng1@163.com 或 hdwx_3@163.com  
 
 <img src="GZH.png" alt="GZH" style="zoom:25%;" />
 
