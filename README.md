@@ -20,6 +20,7 @@
   * [Analysis](#Analysis)
     * [AnalysisSoftwareTutorial](#AnalysisSoftwareTutorial)
       * [AdamsBook](#AdamsBool)
+    * [Dynamics AnalysisTutorial](#Dynamics AnalysisTutorial)
 * [SoftwareCategory](#SoftwareCategory)
   * [ComputerEngineeringBasis](#ComputerEngineeringBasis)
     * [ProgrammingTutorial](#ProgrammingTutorial)
@@ -51,7 +52,6 @@
   * [NeuralNetwork](#NeuralNetwork)
     * [Overview](#Overview) 
   * [ComprehensiveBooks](#ComprehensiveBooks)
-
 * [HardWareCategory](#HardWareCategory)
 
 
@@ -78,6 +78,9 @@
 #### AdamsBook
 - ADAMS入门详解与实例-李增刚.pdf
 
+### Dynamics AnalysisTutorial
+- Peter Corke-Robotics, Vision and Control_ Fundamental Algorithms In MATLAB 2ndEdt-Springer2017.pdf
+- 机器人学导论（原书第3版）_（美）HLHN J.CRAIG著  贠超等译.pdf
 
 # SoftwareCategory
 ## ComputerEngineeringBasis
